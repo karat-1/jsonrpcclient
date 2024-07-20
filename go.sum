@@ -1,0 +1,6 @@
+github.com/creachadair/jrpc2 v1.2.0 h1:SXr0OgnwM0X18P+HccJP0uT3KGSDk/BCSRlJBvE2bMY=
+github.com/creachadair/jrpc2 v1.2.0/go.mod h1:66uKSdr6tR5ZeNvkIjDSbbVUtOv0UhjS/vcd8ECP7Iw=
+github.com/creachadair/mds v0.13.4 h1:RgU0MhiVqkzp6/xtNWhK6Pw7tDeaVuGFtA0UA2RBYvY=
+github.com/creachadair/mds v0.13.4/go.mod h1:4vrFYUzTXMJpMBU+OA292I6IUxKWCCfZkgXg+/kBZMo=
+golang.org/x/sync v0.6.0 h1:5BMeUDZ7vkXGfEr1x9B4bRcTH4lpkTkpdh0T/J+qjbQ=
+golang.org/x/sync v0.6.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
