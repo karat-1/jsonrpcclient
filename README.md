@@ -74,4 +74,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [creachadair/jrpc2](https://github.com/creachadair/jrpc2) for the JSON-RPC 2.0 implementation
-```
+
+## Author
+
+- [karat-1](https://github.com/karat-1)
+
