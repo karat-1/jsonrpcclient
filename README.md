@@ -12,7 +12,7 @@ This Go program implements a JSON-RPC 2.0 client that connects to a server, send
 
 ## Prerequisites
 
-- Go 1.16 or later
+- Go 1.22.5 or later
 - A running JSON-RPC 2.0 server
 
 ## Installation
